@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋🏻</h1>
 <h4 align="center">My name is Michaela Caprice Rosales. Mica for short 😉</h4>
 <ul>
-  <li>👩🏻&zwj;💻 I'm working as a <b>Frontend Developer</b></li>
+  <li>👩🏻&zwj;💻 I'm working as a <b>Frontend Developer</b>, freelance <b>WordPress Developer</b> sometimes</li>
   <li>🌱 I'm currently learning <b>React JS</b></li>
   <li>⚡ Fun fact: I love playing online games like <b>Defense of the Ancients</b> </li>
   <li>📫 Connect with me: <a href="mailto:email@example.com">Mail</a> | <a href="https://www.linkedin.com/in/michaela-caprice-rosales/">LinkedIn</a>
