@@ -2,7 +2,7 @@
 <h4 align="center">My name is Michaela Caprice Rosales. Mica for short 😉</h4>
 <ul>
   <li>👩🏻&zwj;💻 I'm currently working as a <b>Software Engineer</b></li>
-  <li>🌱 I'm currently learning <b>React and TypeScript</b></li>
+  <li>🌱 I'm currently learning <b>Angular</b> and <b>Golang</b></li>
   <li>📫 Connect with me: <a href="mailto:email@example.com">Mail</a> | <a href="https://www.linkedin.com/in/michaela-caprice-rosales/">LinkedIn</a>
   </ul>
 
@@ -13,9 +13,10 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flate&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flate&logo=sass&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://shields.io/badge/Chakra UI-319795?style=flat&logo=chakraui&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Tailwind CSS-3490dc?style=flat&logo=tailwindcss&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=react&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=FFFFFF">
