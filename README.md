@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! 👋🏻</h1>
 <h4 align="center">My name is Michaela Caprice Rosales. Mica for short 😉</h4>
+<a href="https://wakatime.com/@78e76670-2bbf-44da-bc56-dd4667fc4119"><img src="https://wakatime.com/badge/user/78e76670-2bbf-44da-bc56-dd4667fc4119.svg" alt="Total time coded since Apr 6 2020" /></a>
 <ul>
   <li>👩🏻&zwj;💻 I'm currently working as a <b>Software Engineer</b></li>
   <li>🌱 I'm currently learning <b>Angular</b> and <b>Golang</b></li>
